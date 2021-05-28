@@ -2,11 +2,48 @@
 	"name": "midnight blue",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
-	},
+		// activityBar
+		"activityBar.background": "#283246",
+		"activityBar.border": null,
+		"activityBar.foreground": "#fff",
+		"activityBarBadge.background": "#ff6964",
+		"activityBarBadge.foreground": "#ffffff",
+		"activityBar.inactiveForeground": "#ffffffb2",
+		// badge
+		"badge.background": "#ff6964",
+		"badge.foreground": "#ffffff",
+		// sidebar
+		"sideBar.background": "#252933",
+		"sideBar.border": null,
+		"sideBar.foreground": "#aaa",
+		"sideBarSectionHeader.background": "#283246",
+		"sideBarSectionHeader.foreground": "#aaaaaa",
+		"sideBarTitle.foreground": "#aaaaaa",
+		// titlebar
+		"titleBar.activeBackground": "#4C566A",
+		"titleBar.activeForeground": "#ffffff",
+		"titleBar.inactiveBackground": "#4C566A",
+		"titleBar.inactiveForeground": "#ffffff33",
+		// status bar
+		"statusBar.background": "#283246",
+		"statusBar.border": null,
+		"statusBar.debuggingBackground": "#2C4069",
+		"statusBar.debuggingBorder": null,
+		"statusBar.foreground": "#fff",
+		// "statusBar.noFolderBackground": "#",
+		// "statusBar.noFolderForeground": "#",
+		// "statusBarItem.activeBackground": "#",
+		// "statusBarItem.hoverBackground": "#",
+		// "statusBarItem.prominentBackground": "#",
+		// "statusBarItem.prominentHoverBackground": "#",
+		// tab
+		"tab.activeBackground": "#283246",
+		"tab.activeForeground": "#fff",
+		"tab.border": null,
+		"tab.activeBorder": "#ffc600",
+		"tab.inactiveBackground": "#252933",
+		"tab.inactiveForeground": "#aaa"
+	},	
 	"tokenColors": [
 		{
 			"name": "Comment",
