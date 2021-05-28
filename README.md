@@ -5,10 +5,12 @@
 - activityBar white: #fff
 - activityBar inactiveItem: #ffffffb2
 
-- badge bg: #ff6964
+- badge bg: #F37D3B
 
 - sidebar blue: #252933
 - sidebar items: #aaa
 - sidebar foreground: #aaaaaa
 
 - titlebar main: #4C566A
+
+- tab active border: #F9D768

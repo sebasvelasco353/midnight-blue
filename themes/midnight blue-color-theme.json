@@ -2,22 +2,24 @@
 	"name": "midnight blue",
 	"type": "dark",
 	"colors": {
+		// progressbar
+		"progressBar.background": "#F9D768",
 		// activityBar
 		"activityBar.background": "#283246",
 		"activityBar.border": null,
 		"activityBar.foreground": "#fff",
-		"activityBarBadge.background": "#ff6964",
+		"activityBarBadge.background": "#F37D3B",
 		"activityBarBadge.foreground": "#ffffff",
 		"activityBar.inactiveForeground": "#ffffffb2",
 		// badge
-		"badge.background": "#ff6964",
+		"badge.background": "#F37D3B",
 		"badge.foreground": "#ffffff",
 		// sidebar
 		"sideBar.background": "#252933",
 		"sideBar.border": null,
 		"sideBar.foreground": "#aaa",
-		"sideBarSectionHeader.background": "#283246",
-		"sideBarSectionHeader.foreground": "#aaaaaa",
+		"sideBarSectionHeader.background": "#252933",
+		"sideBarSectionHeader.foreground": "#fff",
 		"sideBarTitle.foreground": "#aaaaaa",
 		// titlebar
 		"titleBar.activeBackground": "#4C566A",
@@ -40,9 +42,16 @@
 		"tab.activeBackground": "#283246",
 		"tab.activeForeground": "#fff",
 		"tab.border": null,
-		"tab.activeBorder": "#ffc600",
+		"tab.activeBorder": "#F9D768",
 		"tab.inactiveBackground": "#252933",
-		"tab.inactiveForeground": "#aaa"
+		"tab.inactiveForeground": "#aaa",
+		// list
+		"list.activeSelectionBackground": "#2C4069",
+		"list.activeSelectionForeground": "#aaa",
+		"list.hoverBackground": "#222f47",
+		"list.hoverForeground": "#aaa",
+		"list.inactiveSelectionBackground": "#2C4069",
+		"list.inactiveSelectionForeground": "#aaa",
 	},	
 	"tokenColors": [
 		{
