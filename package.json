@@ -1,0 +1,21 @@
+{
+    "name": "midnight-blue",
+    "displayName": "midnight blue",
+    "description": "midnight blue its a vscode theme inspired in the colors blue, yellow and white.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "midnight blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/midnight blue-color-theme.json"
+            }
+        ]
+    }
+}
