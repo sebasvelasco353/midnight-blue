@@ -14,3 +14,8 @@
 - titlebar main: #4C566A
 
 - tab active border: #F9D768
+- list selection: #2C4069
+- list hover: #222f47
+
+## contributing
+this is a work in progress and contributing its allowed and desired, feel free to open issues or to fork and open PRs for this.

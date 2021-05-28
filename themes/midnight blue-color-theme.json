@@ -4,6 +4,8 @@
 	"colors": {
 		// progressbar
 		"progressBar.background": "#F9D768",
+		// editor
+		"editor.background": "#14171C",
 		// activityBar
 		"activityBar.background": "#283246",
 		"activityBar.border": null,
@@ -42,9 +44,11 @@
 		"tab.activeBackground": "#283246",
 		"tab.activeForeground": "#fff",
 		"tab.border": null,
+		"tab.hoverBorder": "#f9d76888",
 		"tab.activeBorder": "#F9D768",
 		"tab.inactiveBackground": "#252933",
 		"tab.inactiveForeground": "#aaa",
+		"editorGroupHeader.tabsBackground": "#252933",
 		// list
 		"list.activeSelectionBackground": "#2C4069",
 		"list.activeSelectionForeground": "#aaa",
