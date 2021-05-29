@@ -1,5 +1,5 @@
 # Midnight Blue - vscode theme
-
+![Marketplace version](https://vsmarketplacebadge.apphb.com/version-short/SebastianVelasco.midnight-blue.svg)
 ![MidnightBlue screenshot](./images/screenshot.png)
 
 ## Colors: 

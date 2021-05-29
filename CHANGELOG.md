@@ -1,9 +1,13 @@
 # Change Log
-
-All notable changes to the "midnight-blue" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [Unreleased]
 
-- Initial release
+## [1.0.0]
+-  Initial release
+
+## [1.0.1]
+### added
+- statusBar.noFolder is #372c69.
+- editor.lineHighlightBackground is #1a1f25.
+- Theme icon.
+### changed
+- StatusBar.debugging changed to #4c646a.

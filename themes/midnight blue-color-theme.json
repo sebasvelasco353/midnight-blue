@@ -6,6 +6,7 @@
 		"progressBar.background": "#F9D768",
 		// editor
 		"editor.background": "#14171C",
+		"editor.lineHighlightBackground": "#1a1f25",
 		// activityBar
 		"activityBar.background": "#283246",
 		"activityBar.border": null,
@@ -31,15 +32,11 @@
 		// status bar
 		"statusBar.background": "#283246",
 		"statusBar.border": null,
-		"statusBar.debuggingBackground": "#2C4069",
+		"statusBar.debuggingBackground": "#4c646a",
+		"statusBar.debuggingForeground": "#ffffff",
 		"statusBar.debuggingBorder": null,
 		"statusBar.foreground": "#fff",
-		// "statusBar.noFolderBackground": "#",
-		// "statusBar.noFolderForeground": "#",
-		// "statusBarItem.activeBackground": "#",
-		// "statusBarItem.hoverBackground": "#",
-		// "statusBarItem.prominentBackground": "#",
-		// "statusBarItem.prominentHoverBackground": "#",
+		"statusBar.noFolderBackground": "#372c69",
 		// tab
 		"tab.activeBackground": "#283246",
 		"tab.activeForeground": "#fff",
